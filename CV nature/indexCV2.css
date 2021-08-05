@@ -1,0 +1,610 @@
+html{
+    height: 100cm;
+
+}
+
+
+.discours{
+    height: .6px;
+    position: relative;
+    left: 600px;
+    top: 70px;
+    
+    width: 800px;
+}
+     
+.he{
+    position: relative;
+    bottom: 1050px;
+    height: 10cm;
+}    
+.I{
+    position: relative;
+    top: 100px;
+}
+#ho{
+    height: 200px;
+}
+.dic{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+figure{
+    width: 100px;
+    height: 200px;
+    position: relative;
+    right: 200px;
+}
+
+#vital,#vital1{
+    position: relative;
+    right: 110px;
+}
+
+#LECTURE,#basket,#baby,#cinema{
+  width: 600px;
+  height: 280px; 
+  border-radius: 5px; 
+}
+
+.soigne2,.soigne3,.soigne4{
+    position: relative;
+    right: 130px;
+    top:20px;
+    border-radius: 5px;
+    width: 910px;
+    background-color:  rgba(0, 0, 0, 0.459);
+    height: 4px;
+}
+
+
+
+
+figcaption{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+text-decoration: underline;
+}
+
+.douze{
+    width: 5px;
+    height: 320px;
+    background-color: rgba(0, 0, 0, 0.719);
+    position: relative;
+    left: 390px;
+}
+
+#treize{
+    position: relative;
+    bottom: 310px;
+    left: 5px;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px grey;
+    border-radius: 10px;
+}
+
+.quinze{
+    position: relative;
+    bottom: 580px;
+    left: 50px;
+}
+
+.seize{
+    position: relative;
+    left: 360px;
+}
+
+.dspt{
+    position: relative;
+    top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+#dnf{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border:solid 2px darkblue;
+    padding: 3px;
+    position: relative;
+    top: 40px;
+    right: 4px;
+}
+
+#dht{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    position: relative;
+    left: 100px;
+}
+
+#vgun,.vgd{
+    position: relative;
+    bottom: 730px;
+}
+
+.vgd{
+    position: relative;
+    bottom: 1050px;
+    left: 300px;
+}
+
+.vgsx{
+    position: relative;
+    left: 110px;
+    top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+.vgcq{
+    position: relative;
+    left: 113px;
+top: 27px;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid darkblue;
+    padding: 3px;
+    font-weight: bolder;
+
+}
+
+.vgtr{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    position: relative;
+    right: 150px;
+}
+
+#vgun{
+    box-shadow: 2px 2px 2px 2px grey;
+    border-radius: 5px;
+    position: relative;
+    bottom: 680px;
+    height: 300px;
+}
+
+.vgd{
+    position: relative;
+    bottom: 930px;
+}
+
+.vgst,#vingt{
+    font-weight: bold;
+}
+
+.trd,.trtr,.trcq{
+    position: relative;
+    bottom: 1330px;
+}
+
+.trd{
+    position: relative;
+    left: 140px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 25px;
+}
+
+.trtr{
+    position: relative;
+    left: 420px;
+    bottom: 1280px;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border:solid 2px darkblue;
+    padding: 3px;
+}
+
+.trcq{
+    position: relative;
+    left: 420px;
+    bottom: 1240px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+#soigne1{
+    position: relative;
+    bottom: 820px;
+    right: 130px;
+    border-radius: 5px;
+    width: 910px;
+    background-color:  rgba(0, 0, 0, 0.459);
+    height: 4px;
+}
+
+.malade1{
+    width: 5px;
+    height: 320px;
+    background-color: rgba(0, 0, 0, 0.719);
+    position: relative;
+    bottom: 785px;
+    left: 390px;
+}
+
+
+
+#soigne{
+    position: relative;
+    bottom: 400px;
+    right: 130px;
+    border-radius: 5px;
+    width: 910px;
+    background-color:  rgba(0, 0, 0, 0.459);
+    height: 4px;
+}
+
+.malade{
+    width: 5px;
+    height: 320px;
+    background-color: rgba(0, 0, 0, 0.719);
+    position: relative;
+    bottom: 370px;
+    left: 390px;
+
+}
+
+#vgqt{
+    position: relative;
+    bottom: 1090px;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px grey;
+    border-radius: 10px;
+}
+
+#treize:hover,#vgun:hover,#vgqt:hover{
+    opacity: 1;
+    box-shadow: 6px 6px 18px black;
+}
+#treize,#vgun,#vgqt{
+opacity: 0.6;
+
+}
+
+#oh{
+ 
+ height: 120px;
+ width: 200px;  
+ position: relative;
+ bottom: 1260px;
+ left: 480px; 
+    
+}
+
+.ques{
+    position: relative;
+    bottom: 1000px;
+    right: 200px;;
+}
+.que{
+    position: relative;
+    bottom: 990px;
+    line-height: 30px;
+}
+
+
+.qui{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-decoration: underline;
+}
+
+.quoi{
+    position: relative;
+    left: 380px;
+    bottom: 180px;
+}
+
+progress{
+    width: 250px;
+    height: 4px;
+    border-radius: 7px;
+    border: transparent;
+    overflow: hidden;
+    background-color: rgba(128, 128, 128, 0.226);
+    box-shadow: 0 0 3.5px  rgba(128, 128, 128, 0.226) ;
+    animation: progress 30s  ;
+}
+@keyframes progress{
+0%{
+width: 0%;
+}
+100%{
+width: 30%;
+}
+}
+
+.hein{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.onze{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 24px;
+    
+}
+
+.mince{
+    position: relative;
+    bottom: 900px;
+}
+
+
+.un{
+    background-color: darkblue;
+    height:100cm;
+    width: 350px;
+    
+    
+
+    
+}
+
+
+
+.deux{
+    position: relative;
+    bottom: 30px;
+    background-color: rgba(135, 207, 235, 0.938);
+    width: auto;
+    height: 115px;
+
+}
+
+.trois{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+
+}
+
+p{
+    color: white;
+    display: block;
+}
+ 
+img{
+    width: 350px;
+    height: 400px;
+}
+
+#si,#sii,#siii,#sil{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    bottom: 245px;
+    left: 15px;
+    
+}
+
+
+
+
+
+.CI{
+    position: relative;
+    bottom: 260px;
+    left: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.CII{
+    position: relative;
+    bottom: 260px;
+    left: 40px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.CIII{
+    position: relative;
+    bottom: 260px;
+    left: 40px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.CIL{
+    position: relative;
+    bottom: 260px;
+    left: 40px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.quatre{
+    position: relative;
+    top: 50px;
+    left: 15px;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cinq{
+    position: relative;
+    top: 300px;
+}
+
+.sic{
+    position: relative;
+    top: 493px;
+    
+}
+
+.sill{
+    font-weight: bold;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 15px;
+}
+
+.sept{
+    position: relative;
+    top: 593px;
+    left: 15px;
+    font-weight: bold;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+
+
+
+#slider{
+    width: 300px;
+    
+    position: relative;
+    left: 10px;
+    background: url("parcours.png");
+    background-repeat: no-repeat;
+    animation: slide 7s infinite;
+}
+@keyframes slide{
+    25%{
+        background: url("parcours scolaire 1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+    50%{
+        background: url("parcours1.jpg");
+        
+        
+    }
+    75%{
+        background: url("parcours.png");
+        background-repeat: no-repeat;
+       
+    }
+}
+
+
+
+
+.cp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: relative;
+    left: 15px;
+}
+
+.cp1{
+    font-weight: bold;
+    font-size: 19px;
+}
+.cp2,.cp3{
+    position: relative;
+    left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+}
+
+li{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.huit{
+    font-size: 17px;
+    font-weight: normal;
+    position: relative;
+    left: 18px;
+}
+
+.fidèle{
+    position: relative;
+    right: 20px;
+}
+
+#fes{
+    border: none;
+    width: 350px;
+    background-color: rgba(135, 207, 235, 0.767);
+    position: relative;
+    top: 550px;
+    border-radius: 3px;
+    
+}
+ 
+#fi{
+    position: relative;
+    top: 93px;
+    background-color: rgba(135, 207, 235, 0.767);
+    border-radius: 3px;
+}
+
+#zero1,#zero3,#zero4,#zero5{
+    height: 30px;
+    width: 100px;
+position: relative;
+left: 60px;
+border-radius: 20px;
+}
+
+#zero2{
+    position: relative;
+    top: 900px;
+}
+
+#fes1{
+    position: relative;
+    top: 660px;
+    background-color: rgba(135, 207, 235, 0.767);
+}
+
+.tres{
+    font-weight: bold;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 15px;
+    bottom: 180px;
+    color: white;
+    text-decoration: underline;
+
+}
+
+#zero1{
+    position: relative;
+    bottom: 100px;
+}
+#zero5{
+    position: relative;
+    top: 180px;
+    height: 200px;
+    width: 200px;
+    
+}
+#zero3{
+    position: relative;
+    top: 300px;
+    height: 200px;
+    width: 200px;
+
+}
+#zero4{
+    position: relative;
+    bottom: 240px;
+    height: 200px;
+    width: 200px;
+}
+#zero1{
+    height: 200px;
+    width: 200px;
+}
